@@ -1,0 +1,64 @@
+[
+    {
+        "id": "c1",
+        "category": "Gentleman of the Year",
+        "nominees": [
+            {
+                "nomineeId": 0,
+                "name": "Chris",
+                "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTN8D07EY8DM6MVbTMjXgakbfTiXrkA1QKqmNTKE3miNC4Fp4tz8647PhHVuybWv_u3bwVhDgq-68R-CD0"
+            },
+            {
+                "nomineeId": 1,
+                "name": "Evans",
+                "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRpW3LbFgFmL3wF7AxVmNPkfKKVTg3hdeDwJAkQ6ffgI1aqNQH-ofOktw9CRPIIPA8IRuPHc9YeW1BGdTI"
+            },
+            {
+                "nomineeId": 2,
+                "name": "Robert",
+                "imageUrl": "https://www.onthisday.com/images/people/robert-downey-jr.jpg?w=360"
+            },
+            {
+                "nomineeId": 3,
+                "name": "Tom",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/1200px-Tom_Holland_by_Gage_Skidmore.jpg"
+            },
+            {
+                "nomineeId": 4,
+                "name": "Ben",
+                "imageUrl": "https://cdn.britannica.com/96/173696-050-7070A29D/Benedict-Cumberbatch-British-stage-screen.jpg"
+            }
+        ]
+    },
+    {
+        "id": "c2",
+        "category": "Ladies of the Year",
+        "nominees": [
+            {
+                "nomineeId": 5,
+                "name": "Brie",
+                "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/brie-larson-cannes-film-festival-646debe345ede.jpg"
+            },
+            {
+                "nomineeId": 6,
+                "name": "Scarlett",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_FMjpg_UX1000_.jpg"
+            },
+            {
+                "nomineeId": 7,
+                "name": "Gal",
+                "imageUrl": "https://www.jewishvirtuallibrary.org/jsource/images/People/galgadot.jpg"
+            },
+            {
+                "nomineeId": 8,
+                "name": "Natalie",
+                "imageUrl": "https://flxt.tmsimg.com/assets/71364_v9_bb.jpg"
+            },
+            {
+                "nomineeId": 9,
+                "name": "Eli",
+                "imageUrl": "https://flxt.tmsimg.com/assets/620481_v9_bc.jpg"
+            }
+        ]
+    }
+]

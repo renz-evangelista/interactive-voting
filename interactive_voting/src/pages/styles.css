@@ -1,0 +1,24 @@
+.voting-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #00595c;
+}
+
+.voting-header {
+    background-color: #363636;
+    padding: 16px;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+.submit-btn-container {
+    align-self: center;
+}
+
+.submit-btn {
+    background-color: #e6c635 !important;
+    color: #000 !important;
+    border: #000 !important;
+    width: 200px;
+}
